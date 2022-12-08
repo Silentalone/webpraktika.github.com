@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(234, 226, 226);
+}
+a{
+    font-family: Helvetica;
+    letter-spacing: 0.4em;
+    font-weight: 16px;
+    font-size: 16px;
+    text-align: center;
+    color: #202125;
+    cursor: pointer;
+    width: 180px;
+    transition: all 600ms cubic-bezier(0.2, 0, 0, 0.8);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(18, 97, 255);
+}

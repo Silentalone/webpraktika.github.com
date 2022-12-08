@@ -1,0 +1,19 @@
+body {
+    font-family: 'Baloo Tamma', cursive;
+    background: rgb(152, 152, 250);
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    letter-spacing: 5px;
+    top: 50%;
+    position: absolute;
+    margin-top: -40px;
+
+    text-shadow: -1px -1px 0px rgb(75, 75, 240),
+        3px 3px 0px rgb(75, 75, 238),
+        6px 6px 0px rgb(75, 75, 238);
+}

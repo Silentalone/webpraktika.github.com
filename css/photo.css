@@ -1,0 +1,79 @@
+body{
+    background-color: silver;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:aliceblue;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+}
+.photo1{
+    width: 300px;
+    height: 420px;
+    margin-left: 70px;
+    margin-top: 50px;
+    transition: all 600ms;
+}
+.photo1:hover {
+    filter: drop-shadow(12px 13px 15px black);
+    width: 320px;
+    height: 440px;
+}
+.phototxt{
+    position: absolute;
+    top: 48%;
+    left: 177px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 20px;
+}
+.photo2{
+    width: 300px;
+    height: 420px;
+    margin-left: 70px;
+    margin-top: 50px;
+    transition: all 600ms;
+}
+.photo2:hover {
+    width: 320px;
+    height: 440px;
+    filter: drop-shadow(12px 13px 15px black);
+}
+.photo3 {
+    width: 300px;
+    height: 420px;
+    margin-left: 70px;
+    margin-top: 50px;
+    transition: all 600ms;
+}
+.photo3:hover {
+    width: 320px;
+    height: 440px;
+    filter: drop-shadow(12px 13px 15px black);
+}
+.photo4 {
+    width: 300px;
+    height: 420px;
+    margin-left: 70px;
+    margin-top: 50px;
+    transition: all 600ms;
+}
+.photo4:hover{
+    width: 320px;
+    height: 440px;
+    filter: drop-shadow(12px 13px 15px black);
+}
+.photo5 {
+    width: 300px;
+    height: 420px;
+    margin-left: 70px;
+    margin-top: 50px;
+    transition: all 600ms;
+}
+.photo5:hover{
+    width: 320px;
+    height: 440px;
+    filter: drop-shadow(12px 13px 15px black);
+}
